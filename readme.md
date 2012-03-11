@@ -1,4 +1,4 @@
-# Instagram Plugin for Kirby by Simon Albrecht (1.0)
+# Instagram Plugin for Kirby by Simon Albrecht (1.0.1)
 This is a plugin for [Kirby](http://getkirby.com/) that loads images from the [Instagram](http://instagram.com/) API.
 
 ## Installation
